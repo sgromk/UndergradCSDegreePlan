@@ -24,23 +24,6 @@
 
 # Summary
 
-The OSSU curriculum is a **complete education in computer science** using online materials.
-It's not merely for career training or professional development.
-It's for those who want a proper, *well-rounded* grounding in concepts fundamental to all computing disciplines,
-and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own,
-but with support from a worldwide community of fellow learners.
-
-It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements,
-as it is assumed most of the people following this curriculum are already educated outside the field of CS.
-The courses themselves are among the very best in the world, often coming from Harvard, Princeton, MIT, etc.,
-but specifically chosen to meet the following criteria.
-
-**Courses must**:
-- Be open for enrollment
-- Run regularly (ideally in self-paced format, otherwise running multiple times per year)
-- Be of generally high quality in teaching materials and pedagogical principles
-- Match the curricular standards of the [CS 2013](CURRICULAR_GUIDELINES.md): Curriculum Guidelines for Undergraduate Degree Programs in Computer Science
-
 When no course meets the above criteria, the coursework is supplemented with a book.
 When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
 they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/readings.md).
@@ -443,14 +426,6 @@ Courses | Duration | Effort | Prerequisites
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | One year programming experience
 [Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | 6 months | 5 hours/week | programming, interactive design
 
-## Congratulations
-
-After completing the requirements of the curriculum above,
-you will have completed the equivalent of a full bachelor's degree in Computer Science.
-Congratulations!
-
-What is next for you? The possibilities are boundless and overlapping:
-
 - Look for a job as a developer!
 - Check out the [readings](extras/readings.md) for classic books you can read that will sharpen your skills and expand your knowledge.
 - Join a local developer meetup (e.g. via [meetup.com](https://www.meetup.com/)).
@@ -458,15 +433,6 @@ What is next for you? The possibilities are boundless and overlapping:
   + Explore the **actor model** through [Elixir](https://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
   + Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector!
   + Explore **dependent type systems** through [Idris](https://www.idris-lang.org/), a new Haskell-inspired language with unprecedented support for type-driven development.
-
-![keep learning](https://i.imgur.com/REQK0VU.jpg)
-
-# Code of conduct
-[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
-
-## How to show your progress
-
-[Fork](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/) the [GitHub repo](https://github.com/ossu/computer-science) into your own GitHub account and put ✅ next to the stuff you've completed as you complete it. This can serve as your [kanban board](https://en.wikipedia.org/wiki/Kanban_board) and will be faster to implement than any other solution (giving you time to spend on the courses).
 
 # Team
 
