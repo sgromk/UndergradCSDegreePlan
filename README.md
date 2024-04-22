@@ -62,32 +62,18 @@ they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/r
 - [Final project](#final-project)
 
 ---
-
-## Prerequisites
-
-- [Core CS](#core-cs) assumes the student has already taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites), including algebra, geometry, and pre-calculus.
-- [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
-and is knowledgeable enough now to decide which electives to take.
-- Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
-
 ## Intro CS
 
 ### Introduction to Programming
-
-If you've never written a for-loop, or don't know what a string is in programming, start here. This course is self-paced, allowing you to adjust the number of hours you spend per week to meet your needs.
-
 **Topics covered**:
 `simple programs`
 `simple data structures`
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Introduction to programming](coursepages/intro-programming/README.md) | 10 weeks | 10 hours/week | none | [chat](https://discord.gg/syA242Z)
+✅ [Introduction to programming](coursepages/intro-programming/README.md) | 10 weeks | 10 hours/week | none | [chat](https://discord.gg/syA242Z)
 
 ### Introduction to Computer Science
-
-This course will introduce you to the world of computer science. Students who have been introduced to programming, either from the courses above or through study elsewhere, should take this course for a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
-
 **Topics covered**:
 `computation`
 `imperative programming`
@@ -96,12 +82,9 @@ This course will introduce you to the world of computer science. Students who ha
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
+✅ [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
 
 ## Core CS
-
-All coursework under Core CS is **required**, unless otherwise indicated.
-
 ### Core programming
 **Topics covered**:
 `functional programming`
@@ -140,7 +123,7 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 
 Courses | Duration | Effort | Notes | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--: | :--:
-[Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) ([alternative](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)) | 13 weeks | 6-10 hours/week | The alternate covers this and the following 2 courses | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/mPCt45F)
+✅ [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) ([alternative](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)) | 13 weeks | 6-10 hours/week | The alternate covers this and the following 2 courses | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/mPCt45F)
 [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week | - | Calculus 1A | [chat](https://discord.gg/sddAsZg)
 [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week | - | Calculus 1B | [chat](https://discord.gg/FNEcNNq)
 [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alternative](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)) | 13 weeks | 5 hours/week | [2015/2019 solutions](https://github.com/spamegg1/Math-for-CS-solutions) [2010 solutions](https://github.com/frevib/mit-cs-math-6042-fall-2010-problems) [2005 solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/). | Calculus 1C | [chat](https://discord.gg/EuTzNbF)
