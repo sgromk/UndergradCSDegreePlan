@@ -34,39 +34,7 @@ they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/r
 - *Advanced CS*: corresponds roughly to the final year of a computer science curriculum, taking electives according to the student's interests
 - *Final Project*: a project for students to validate, consolidate, and display their knowledge, to be evaluated by their peers worldwide
 
-**Duration**. It is possible to finish within about 2 years if you plan carefully and devote roughly 20 hours/week to your studies. Learners can use [this spreadsheet
-](https://docs.google.com/spreadsheets/d/1bkUU90y4rKYQHwY5AR2iX6iiPTrPEsYs75GkCAkrgm4/copy) to estimate their end date. Make a copy and input your start date and expected hours per week in the `Timeline` sheet. As you work through courses you can enter your actual course completion dates in the `Curriculum Data` sheet and get updated completion estimates.
-  
-> **Warning:** While the spreadsheet is a useful tool to estimate the time you need to complete this curriculum, it may not be up-to-date with the curriculum. Use the spreadsheet just to estimate the time you need. Use the [OSSU CS website](https://cs.ossu.dev) or [the repo](https://github.com/ossu/computer-science) to see what courses to do.
-
-**Cost**. All or nearly all course material is available for free. However, some courses may charge money for assignments/tests/projects to be graded.
-Note that both [Coursera](https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid-or-a-Scholarship?language=en_US) and [edX](https://courses.edx.org/financial-assistance/) offer financial aid.
-
-Decide how much or how little to spend based on your own time and budget;
-just remember that you can't purchase success!
-
-**Process**. Students can work through the curriculum alone or in groups, in order or out of order.
-- We recommend doing all courses in Core CS, only skipping a course when you are certain that you've already learned the material previously.
-- For simplicity, we recommend working through courses (especially Core CS) in order from top to bottom. Some students choose to study multiple courses at a time in order to vary the material they are working on is a day/week. A popular option is to take the math courses in parallel with the introductory courses. Course prerequisites are listed to help you determine if you are prepared for a given course.
-- Courses in Advanced CS are electives. Choose one subject (e.g. Advanced programming) you want to become an expert in and take all the courses under that heading. You can also create your own custom subject; the Discord community may provide feedback on your planned subject.
-
-**Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
-*Respect the code of conduct* that you signed in the beginning of each course!
-
-**[How to contribute](CONTRIBUTING.md)**
-
 **[Getting help](HELP.md)** (Details about our FAQ and chatroom)
-
-# Community
-
-- We have a Discord server! [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wuytwK5s9h) This should be your first stop to talk with other OSSU students. Why don't you introduce yourself right now? [Join the OSSU Discord](https://discord.gg/wuytwK5s9h)
-- You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
-- Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
-
-> **Warning:** There are a few third-party/deprecated/outdated material that you might find when searching for OSSU. We recommend you to ignore them, and only use the [OSSU CS website](https://cs.ossu.dev) or [OSSU CS Github Repo](https://github.com/ossu/computer-science). Some known outdated materials are:
->  - An unmaintained and deprecated firebase app. Read more in the [FAQ](./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken).
->  - An unmaintained and deprecated trello board
->  - Third-party notion templates
 
 # Curriculum
 
