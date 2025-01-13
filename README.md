@@ -39,7 +39,6 @@ When there are courses or books that don't fit into the curriculum but are other
 they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/readings.md).
 
 **Organization**. The curriculum is designed as follows:
-- *Intro CS*: for students to try out CS and see if it's right for them
 - *Core CS*: corresponds roughly to the first three years of a computer science curriculum, taking classes that all majors would be required to take
 - *Advanced CS*: corresponds roughly to the final year of a computer science curriculum, taking electives according to the student's interests
 - *Final Project*: a project for students to validate, consolidate, and display their knowledge, to be evaluated by their peers worldwide
