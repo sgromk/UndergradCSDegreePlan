@@ -19,6 +19,7 @@ Upper bound: 57%, 700 hours remaining
 
 
 **Next courses**
+
 Finishing Software Architecture, all of core theory and core applications.
 Especially keen on the Stanford ML course.
 
