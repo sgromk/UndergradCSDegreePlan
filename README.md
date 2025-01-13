@@ -1,25 +1,34 @@
 <div align="center" style="text-align: center">
-<img src="http://i.imgur.com/kYYCXtC.png" alt="Open Source Society logo"/>
 <h3>Open Source Society University</h3>
 <p>
   Path to a free self-taught education in Computer Science!
 </p>
-<p>
-  <a href="https://github.com/sindresorhus/awesome">
-    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"
-  ></a>
-  <a href="https://github.com/ossu/computer-science">
-    <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"
-  ></a>
-</p>
 </div>
+
+# My progress
+
+On a personal note, I've realized I love the applied math aspects of CS. As a result, I'm pursuing a career in Data Science and focusing on math, especially ML math. I'm taking a step away from software engineering aspects of CS but still interesting in algorithm design as a means of problem-solving.
+
+**% Complete**
+
+Hours complete: 1000-1250
+
+Lower bound: 42%, 1000 hours remaining
+
+Upper bound: 57%, 700 hours remaining
+
+
+**Next courses**
+Finishing Software Architecture, all of core theory and core applications.
+Especially keen on the Stanford ML course.
+
+Taking most of the Advanced Math as accredited in-person courses to better formalize the knowledge. 
+
 
 # Contents
 
 - [Summary](#summary)
-- [Community](#community)
 - [Curriculum](#curriculum)
-- [Code of conduct](#code-of-conduct)
 - [Team](#team)
 
 # Summary
@@ -232,8 +241,8 @@ Courses | Duration | Effort | Prerequisites | Discussion
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-🔄 [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/pMFqNf4)
-[Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/P8SPPyF)
+✅ [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/pMFqNf4)
+🔄 [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/P8SPPyF)
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/duCJ3GN)
 [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | 9 hours/week | Basic coding | [chat](https://discord.gg/NcXHDjy)
 [Computer Graphics](https://www.edx.org/course/computer-graphics-2) ([alternative](https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi22/schedule.html))| 6 weeks | 12 hours/week | C++ or Java, linear algebra | [chat](https://discord.gg/68WqMNV)
