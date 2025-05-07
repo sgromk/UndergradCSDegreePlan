@@ -212,8 +212,8 @@ Courses | Duration | Effort | Prerequisites | Discussion
 Courses | Duration | Effort | Discussion
 :-- | :--: | :--: | :--:
 ~~[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)~~ | ~~8 weeks~~ | ~~10-12 hours/week~~ | ~~[chat](https://discord.gg/XdY3AwTFK4)~~
-🔄 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week | [chat](https://discord.gg/5gMdeSK)
-[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week | [chat](https://discord.gg/V78MjUS)
+✅ [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week | [chat](https://discord.gg/5gMdeSK)
+🔄 [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week | [chat](https://discord.gg/V78MjUS)
 ~~[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming)~~ | ~~4 weeks~~ | ~~5 hours/week~~ | ~~[chat](https://discord.gg/Vbxce7A)~~
 [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | 5 hours/week | [chat](https://discord.gg/QxC22rR)
 
