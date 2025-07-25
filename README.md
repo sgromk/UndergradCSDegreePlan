@@ -20,8 +20,7 @@ Upper bound: 57%, 700 hours remaining
 
 **Next courses**
 
-Finishing Software Architecture, all of core theory and core applications.
-Especially keen on the Stanford ML course.
+With the little spare time I have during my masters, I am focusing on algorithms (core theory). I'm also trying to learn tools and theory relevant to applied research scientist and data scientist roles.
 
 Taking most of the Advanced Math as accredited in-person courses to better formalize the knowledge. 
 
@@ -117,7 +116,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 ✅ [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B | [chat](https://discord.gg/8EZUVbA)
 ✅ [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 13 weeks | 5-10 hours/week | Systematic Program Design, High School Math | [chat](https://discord.com/channels/744385009028431943/891411727294562314)
 🔄 [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 13 weeks | 5-10 hours/week | Class Based Program Design | [chat](https://discord.com/channels/744385009028431943/891412022120579103)
-🔄 [Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Object Oriented Design | [chat](https://discord.com/channels/744385009028431943/891412169638432788)
+✅ [Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Object Oriented Design | [chat](https://discord.com/channels/744385009028431943/891412169638432788)
 
 ### Core math
 Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
